@@ -3,10 +3,11 @@
 
 
 int main(void)
+	/* prints the text in quotes */
 {
-	char str[] = "\"Programming is like building a multilingual puzzle\n";
+	char str[] = "\"Programming is like building a multilingual puzzle";
 		puts(str);
-	return 0;
+	return(0);
 }
 		
 
