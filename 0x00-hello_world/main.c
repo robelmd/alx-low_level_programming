@@ -16,28 +16,8 @@ int main(void)
 
 {
 
-	    return (0);
+		printf("Holberton School");
 
-nclude <stdio.h>
-
-
-
-/**
- *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always 0 (Success)
- *
- *     */
-
-int main(void)
-
-{
-
-	printf("Holberton School");
-
-	return (0);
+			return (0);
 
 }
