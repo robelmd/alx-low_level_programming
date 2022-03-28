@@ -2,10 +2,9 @@
 #include <string.h>
 
 
-int main()
+int main(void)
 {
-	char str[]= "Programming is like building a multilingual puzzle\n";
-
+	char str[] = "Programming is like building a multilingual puzzle\n';
 		puts(str);
 	return 0;
 }
